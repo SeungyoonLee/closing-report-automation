@@ -11,7 +11,7 @@ import java.util.Properties;
 
 /**
  * 환경설정 로드/값 제공
- * @author 이승윤(samsee@ibksystem.co.kr)
+ * @author SeungyoonLee <samsee@ibksystem.co.kr>
  *
  */
 public class Configuration {

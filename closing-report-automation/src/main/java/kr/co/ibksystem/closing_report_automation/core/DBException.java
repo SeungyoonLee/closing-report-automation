@@ -2,7 +2,7 @@ package kr.co.ibksystem.closing_report_automation.core;
 
 /**
  * 예외 Wrapper
- * @author 이승윤(a99354@gwmail.ibk.co.kr)
+ * @author SeungyoonLee <samsee@ibksystem.co.kr>
  *
  */
 public class DBException extends RuntimeException {
